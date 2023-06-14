@@ -1,0 +1,58 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "Maria Hernandez",
+      "description": "Maria Hernandez is a passionate chef who has been in the industry for over 15 years. Her love for cooking began at a young age when she would spend hours in the kitchen with her grandmother, learning traditional recipes from Mexico. She enjoys combining flavors from different cultures to create unique and delicious dishes.",
+      "likes": 55,
+      "rating": 4.5,
+      "yearsOfExperience": 15,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar6.jpg"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "description": "John Smith is an award-winning chef who has been working in the culinary industry for over 20 years. He specializes in creating high-end, fine dining experiences and has worked in some of the most prestigious restaurants around the world. He is passionate about using locally-sourced ingredients and creating dishes that showcase the flavors of the season.",
+      "likes": 30,
+      "rating": 4.0,
+      "yearsOfExperience": 20,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Linda Nguyen",
+      "description": "Linda Nguyen is a chef who has been cooking for over 10 years. She grew up in a family of chefs and learned the art of Vietnamese cuisine from her parents. She loves cooking comfort food and uses her heritage to infuse her dishes with bold flavors and spices. She is also passionate about food education and regularly volunteers at local schools to teach children about healthy eating.",
+      "likes": 40,
+      "rating": 3.8,
+      "yearsOfExperience": 10,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "description": "David Kim is a chef who has been working in the culinary industry for over 25 years. He has worked in some of the most renowned restaurants in the world and has won numerous awards for his cooking. He is a master of classic French cuisine and enjoys putting his own spin on traditional dishes. He is also passionate about mentoring young chefs and helping them develop their skills.",
+      "likes": 10,
+      "rating": 5.8,
+      "yearsOfExperience": 25,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Anderson",
+      "description": "Anderson is a chef who has been working in the culinary industry for over 25 years. He has worked in some of the most renowned restaurants in the world and has won numerous awards for his cooking. He is a master of classic French cuisine and enjoys putting his own spin on traditional dishes. He is also passionate about mentoring young chefs and helping them develop their skills.",
+      "likes": 10,
+      "rating": 3.8,
+      "yearsOfExperience": 25,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnGElK-Jx3q3QeBdVBdnYe0Z-GTKc61aAAA&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "King kong",
+      "description": "King kong is a chef who has been working in the culinary industry for over 25 years. He has worked in some of the most renowned restaurants in the world and has won numerous awards for his cooking. He is a master of classic French cuisine and enjoys putting his own spin on traditional dishes. He is also passionate about mentoring young chefs and helping them develop their skills.",
+      "likes": 10,
+      "rating": 5.0,
+      "yearsOfExperience": 25,
+      "photo": "https://static.standard.co.uk/2022/06/29/15/newFile-9.jpg?width=1200&auto=webp&quality=75"
+    }
+  ]
+}
